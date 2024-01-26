@@ -15,5 +15,3 @@ I just completed Quantium's Data Analytics on @[Forage](urn:li:organization:6851
    strategic decisions and enhancing commercial applications.
 
 Check out the simulation here: https://www.theforage.com/simulations/quantium/data-analytics-rqkb
-
-[completion_certificate.pdf](https://github.com/umeshmehtre/Quantium-Data-Analytics-Job-Simulation/files/14068320/completion_certificate.pdf)
